@@ -1,6 +1,6 @@
 certifi==2022.12.7
 chardet==3.0.4
-idna==2.8
+idna==3.7
 influxdb==5.2.1
 python-dateutil==2.7.5
 pytz==2018.9
